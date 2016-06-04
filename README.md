@@ -1,3 +1,0 @@
-# couchdb
-# couchdb
-# couchdb
